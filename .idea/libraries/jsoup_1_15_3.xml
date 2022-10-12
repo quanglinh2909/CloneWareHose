@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jsoup-1.15.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jsoup-1.15.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencsv-5.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
